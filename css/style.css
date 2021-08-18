@@ -6,10 +6,14 @@ h1{
     
     color: darkorange;
 }
+.message{
+    color: red;
+}
 p{
     color: white;
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
+
 form{
     color: rgb(253, 253, 253);
     padding: 100px;
@@ -27,6 +31,7 @@ label{
     position: relative;
     left: 10px;
 }
+
 #email{
     display: inline-block;
     position: relative;
