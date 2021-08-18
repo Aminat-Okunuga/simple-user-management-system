@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color: darkolivegreen;
+}
+h1{
+    
+    color: darkorange;
+}
+p{
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+form{
+    color: rgb(253, 253, 253);
+    padding: 100px;
+    border: 2px solid #fff;
+    display: inline-block;
+}
+label{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.form-input{
+    margin-top: 20px;
+    border: 2px solid #fff;
+    display: inline-block;
+    position: relative;
+    left: 10px;
+}
+#email{
+    display: inline-block;
+    position: relative;
+    left: 30px;
+}
+#username{
+    display: inline-block;
+    position: relative;
+    left: 13px;
+}
