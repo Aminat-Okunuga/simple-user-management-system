@@ -6,8 +6,12 @@ h1{
     
     color: darkorange;
 }
+h2{
+    color: #fff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
 .message{
-    color: red;
+    color: rgb(252, 87, 87);
 }
 p{
     color: white;
@@ -31,7 +35,27 @@ label{
     position: relative;
     left: 10px;
 }
-
+.table-container{
+    padding: 5px;
+    border: 1px solid #fff;
+    display: inline-block;
+}
+.table{
+    border-style: dotted;
+    color: #fff;
+}
+.edit{
+    color: #fff;
+    background-color: royalblue;
+    text-decoration: none;
+    padding: 10px;
+}
+.delete{
+    color: #fff;
+    background-color: rgb(225, 65, 73);
+    text-decoration: none;
+    padding: 10px;
+}
 #email{
     display: inline-block;
     position: relative;
